@@ -1,0 +1,802 @@
+[
+  {
+    "area": 568,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "location": "Suburban",
+    "age": 30,
+    "price": 116800
+  },
+  {
+    "area": 3570,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "location": "Urban",
+    "age": 37,
+    "price": 443500
+  },
+  {
+    "area": 715,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "location": "Urban",
+    "age": 23,
+    "price": 135000
+  },
+  {
+    "area": 1216,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "location": "Urban",
+    "age": 30,
+    "price": 196600
+  },
+  {
+    "area": 2684,
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "location": "Urban",
+    "age": 15,
+    "price": 335900
+  },
+  {
+    "area": 4840,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "location": "Urban",
+    "age": 6,
+    "price": 561000
+  },
+  {
+    "area": 3333,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "location": "Urban",
+    "age": 20,
+    "price": 428300
+  },
+  {
+    "area": 4086,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "location": "Urban",
+    "age": 12,
+    "price": 492600
+  },
+  {
+    "area": 791,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "location": "Suburban",
+    "age": 48,
+    "price": 95100
+  },
+  {
+    "area": 1453,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "location": "Urban",
+    "age": 33,
+    "price": 193800
+  },
+  {
+    "area": 2901,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "location": "Urban",
+    "age": 44,
+    "price": 348100
+  },
+  {
+    "area": 3600,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "location": "Rural",
+    "age": 27,
+    "price": 396500
+  },
+  {
+    "area": 4355,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "location": "Suburban",
+    "age": 34,
+    "price": 493500
+  },
+  {
+    "area": 1985,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "location": "Urban",
+    "age": 36,
+    "price": 275500
+  },
+  {
+    "area": 3778,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "location": "Rural",
+    "age": 36,
+    "price": 379800
+  },
+  {
+    "area": 2871,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "location": "Suburban",
+    "age": 43,
+    "price": 340600
+  },
+  {
+    "area": 2180,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "location": "Suburban",
+    "age": 3,
+    "price": 271500
+  },
+  {
+    "area": 2877,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "location": "Urban",
+    "age": 16,
+    "price": 384700
+  },
+  {
+    "area": 1776,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "location": "Suburban",
+    "age": 9,
+    "price": 208100
+  },
+  {
+    "area": 1887,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "location": "Rural",
+    "age": 20,
+    "price": 213700
+  },
+  {
+    "area": 2241,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "location": "Suburban",
+    "age": 40,
+    "price": 264100
+  },
+  {
+    "area": 3875,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "location": "Suburban",
+    "age": 22,
+    "price": 411500
+  },
+  {
+    "area": 1160,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "location": "Urban",
+    "age": 21,
+    "price": 190500
+  },
+  {
+    "area": 4835,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "location": "Suburban",
+    "age": 27,
+    "price": 525000
+  },
+  {
+    "area": 562,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "location": "Urban",
+    "age": 30,
+    "price": 121200
+  },
+  {
+    "area": 2557,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "location": "Rural",
+    "age": 31,
+    "price": 275200
+  },
+  {
+    "area": 1795,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "location": "Suburban",
+    "age": 27,
+    "price": 231000
+  },
+  {
+    "area": 3899,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "location": "Rural",
+    "age": 35,
+    "price": 407400
+  },
+  {
+    "area": 1772,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "location": "Urban",
+    "age": 29,
+    "price": 267700
+  },
+  {
+    "area": 1460,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "location": "Rural",
+    "age": 24,
+    "price": 179000
+  },
+  {
+    "area": 3525,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "location": "Urban",
+    "age": 3,
+    "price": 436000
+  },
+  {
+    "area": 501,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "location": "Urban",
+    "age": 28,
+    "price": 101100
+  },
+  {
+    "area": 4274,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "location": "Rural",
+    "age": 33,
+    "price": 465900
+  },
+  {
+    "area": 2342,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "location": "Suburban",
+    "age": 40,
+    "price": 249200
+  },
+  {
+    "area": 4334,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "location": "Suburban",
+    "age": 23,
+    "price": 491900
+  },
+  {
+    "area": 1952,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "location": "Suburban",
+    "age": 22,
+    "price": 229200
+  },
+  {
+    "area": 4293,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "location": "Urban",
+    "age": 9,
+    "price": 509800
+  },
+  {
+    "area": 899,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "location": "Suburban",
+    "age": 36,
+    "price": 126900
+  },
+  {
+    "area": 1207,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "location": "Suburban",
+    "age": 9,
+    "price": 161200
+  },
+  {
+    "area": 1195,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "location": "Suburban",
+    "age": 34,
+    "price": 157500
+  },
+  {
+    "area": 3998,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "location": "Rural",
+    "age": 21,
+    "price": 414300
+  },
+  {
+    "area": 2908,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "location": "Suburban",
+    "age": 17,
+    "price": 342300
+  },
+  {
+    "area": 3632,
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "location": "Rural",
+    "age": 10,
+    "price": 383200
+  },
+  {
+    "area": 1321,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "location": "Suburban",
+    "age": 16,
+    "price": 169100
+  },
+  {
+    "area": 2294,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "location": "Urban",
+    "age": 35,
+    "price": 306900
+  },
+  {
+    "area": 3063,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "location": "Urban",
+    "age": 48,
+    "price": 372300
+  },
+  {
+    "area": 1223,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "location": "Rural",
+    "age": 44,
+    "price": 135300
+  },
+  {
+    "area": 1067,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "location": "Suburban",
+    "age": 32,
+    "price": 125700
+  },
+  {
+    "area": 4749,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "location": "Rural",
+    "age": 10,
+    "price": 499900
+  },
+  {
+    "area": 1388,
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "location": "Urban",
+    "age": 39,
+    "price": 194300
+  },
+  {
+    "area": 1253,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "location": "Suburban",
+    "age": 38,
+    "price": 156300
+  },
+  {
+    "area": 4412,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "location": "Rural",
+    "age": 41,
+    "price": 440700
+  },
+  {
+    "area": 971,
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "location": "Rural",
+    "age": 13,
+    "price": 115600
+  },
+  {
+    "area": 1197,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "location": "Suburban",
+    "age": 20,
+    "price": 169700
+  },
+  {
+    "area": 3388,
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "location": "Urban",
+    "age": 20,
+    "price": 403800
+  },
+  {
+    "area": 596,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "location": "Rural",
+    "age": 24,
+    "price": 102600
+  },
+  {
+    "area": 1298,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "location": "Suburban",
+    "age": 44,
+    "price": 162800
+  },
+  {
+    "area": 1887,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "location": "Suburban",
+    "age": 28,
+    "price": 214700
+  },
+  {
+    "area": 1846,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "location": "Suburban",
+    "age": 28,
+    "price": 210600
+  },
+  {
+    "area": 1501,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "location": "Suburban",
+    "age": 16,
+    "price": 217100
+  },
+  {
+    "area": 2624,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "location": "Urban",
+    "age": 14,
+    "price": 325400
+  },
+  {
+    "area": 3063,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "location": "Urban",
+    "age": 27,
+    "price": 397800
+  },
+  {
+    "area": 1365,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "location": "Rural",
+    "age": 16,
+    "price": 143500
+  },
+  {
+    "area": 3263,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "location": "Suburban",
+    "age": 41,
+    "price": 360800
+  },
+  {
+    "area": 4143,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "location": "Suburban",
+    "age": 11,
+    "price": 473800
+  },
+  {
+    "area": 3399,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "location": "Suburban",
+    "age": 27,
+    "price": 361400
+  },
+  {
+    "area": 4143,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "location": "Suburban",
+    "age": 19,
+    "price": 459800
+  },
+  {
+    "area": 1695,
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "location": "Urban",
+    "age": 32,
+    "price": 228500
+  },
+  {
+    "area": 1922,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "location": "Urban",
+    "age": 26,
+    "price": 264200
+  },
+  {
+    "area": 1815,
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "location": "Suburban",
+    "age": 40,
+    "price": 206500
+  },
+  {
+    "area": 3202,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "location": "Urban",
+    "age": 24,
+    "price": 408200
+  },
+  {
+    "area": 2832,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "location": "Rural",
+    "age": 19,
+    "price": 308700
+  },
+  {
+    "area": 3647,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "location": "Suburban",
+    "age": 17,
+    "price": 411200
+  },
+  {
+    "area": 866,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "location": "Urban",
+    "age": 21,
+    "price": 176100
+  },
+  {
+    "area": 4603,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "location": "Urban",
+    "age": 2,
+    "price": 564300
+  },
+  {
+    "area": 1072,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "location": "Urban",
+    "age": 15,
+    "price": 184700
+  },
+  {
+    "area": 1393,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "location": "Suburban",
+    "age": 29,
+    "price": 159800
+  },
+  {
+    "area": 691,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "location": "Urban",
+    "age": 36,
+    "price": 141100
+  },
+  {
+    "area": 1511,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "location": "Suburban",
+    "age": 1,
+    "price": 185600
+  },
+  {
+    "area": 933,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "location": "Rural",
+    "age": 1,
+    "price": 142800
+  },
+  {
+    "area": 3301,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "location": "Urban",
+    "age": 25,
+    "price": 412600
+  },
+  {
+    "area": 2118,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "location": "Urban",
+    "age": 34,
+    "price": 264800
+  },
+  {
+    "area": 1753,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "location": "Suburban",
+    "age": 2,
+    "price": 214300
+  },
+  {
+    "area": 1087,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "location": "Urban",
+    "age": 22,
+    "price": 167700
+  },
+  {
+    "area": 3690,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "location": "Urban",
+    "age": 49,
+    "price": 419500
+  },
+  {
+    "area": 3467,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "location": "Rural",
+    "age": 4,
+    "price": 369700
+  },
+  {
+    "area": 3377,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "location": "Urban",
+    "age": 5,
+    "price": 440200
+  },
+  {
+    "area": 4603,
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "location": "Urban",
+    "age": 48,
+    "price": 511300
+  },
+  {
+    "area": 3613,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "location": "Urban",
+    "age": 48,
+    "price": 412300
+  },
+  {
+    "area": 3761,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "location": "Suburban",
+    "age": 48,
+    "price": 402100
+  },
+  {
+    "area": 2162,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "location": "Urban",
+    "age": 4,
+    "price": 314200
+  },
+  {
+    "area": 4348,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "location": "Suburban",
+    "age": 17,
+    "price": 496300
+  },
+  {
+    "area": 3603,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "location": "Rural",
+    "age": 12,
+    "price": 369300
+  },
+  {
+    "area": 4162,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "location": "Urban",
+    "age": 29,
+    "price": 486700
+  },
+  {
+    "area": 4017,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "location": "Urban",
+    "age": 24,
+    "price": 459700
+  },
+  {
+    "area": 4718,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "location": "Urban",
+    "age": 29,
+    "price": 522300
+  },
+  {
+    "area": 4148,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "location": "Rural",
+    "age": 48,
+    "price": 435800
+  },
+  {
+    "area": 1345,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "location": "Rural",
+    "age": 19,
+    "price": 145000
+  },
+  {
+    "area": 1173,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "location": "Rural",
+    "age": 27,
+    "price": 138800
+  },
+  {
+    "area": 4138,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "location": "Suburban",
+    "age": 46,
+    "price": 430800
+  }
+]

@@ -1,0 +1,25 @@
+.sidebar {
+  width: 20%;
+  position: fixed;
+  height: 100vh;
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+
+.main {
+  display: flex;
+}
+
+.result {
+  margin-left: 25%;
+  padding: 20px;
+  font-size: 1.5em;
+}
+
+.feedback-form {
+  position: absolute;
+  bottom: 0px;
+  background: #fff3cd;
+  border-radius: 5px;
+  width: 18%;
+}
